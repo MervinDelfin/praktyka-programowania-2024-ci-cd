@@ -1,0 +1,1 @@
+# praktyka-programowania-2024-ci-cd
