@@ -1,1 +1,1 @@
-# praktyka-programowania-2024-ci-cd
+# Praktyka programowania 2024 CI/CD
